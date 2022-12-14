@@ -1,3 +1,5 @@
 fun main() {
-    println("This is the start of Learn Kotlin in 14 Hours")
+    var userName : String = "Matt"
+    userName = "Jim"
+    println("This is $userName ")
 }
