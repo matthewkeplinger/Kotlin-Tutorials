@@ -1,3 +1,3 @@
-fun main(args: Array<String>) {
-    println("Test Push")
+fun main() {
+    println("This is the start of Learn Kotlin in 14 Hours")
 }
